@@ -25,9 +25,10 @@
 - Temperature
 - Humidity
 - Weather condition (e.g., clear, cloudy, etc.)
-Key Concepts and Features Practiced
-State Management: Using useState to manage the city input and weather data states.
-UseEffect Hook: Using useEffect to manage the api call and renders only when the dependency array state changes. 
-API Calls: Using the fetch API to make HTTP requests and handle responses.
-Conditional Rendering: Rendering different UI components based on the state (weather data availability).
-Error Handling: Handling potential errors gracefully (e.g., invalid city name).
+
+## Key Concepts and Features Practiced
+- State Management: Using useState to manage the city input and weather data states.
+- UseEffect Hook: Using useEffect to manage the api call and renders only when the dependency array state changes. 
+- API Calls: Using the fetch API to make HTTP requests and handle responses.
+- Conditional Rendering: Rendering different UI components based on the state (weather data availability).
+- Error Handling: Handling potential errors gracefully (e.g., invalid city name).
